@@ -5,7 +5,7 @@
 
 - 🔭 I’m owner at [Snorkeling Turtles in Mirissa](https://www.tripadvisor.com/AttractionProductReview-g1407334-d19985332-Snorkeling_Turtles_in_Mirissa-Mirissa_Southern_Province.html)
 
-- 👨‍💻 All of my projects are available at [https://hansi-21.github.io/Self-Website.github.io/](https://hansi-21.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://hansi-21.github.io/Portfolio/](https://hansi-21.github.io/Portfolio/)
 
 - 📫 How to reach me **hansaninimeshika89@gmail.com**
 
